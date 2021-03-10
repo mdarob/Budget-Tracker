@@ -5,5 +5,7 @@ no need to enter for expense. This program asks to enter year, month, rent, insu
 a result for the user by each variable. For example, if the rent expense is higher than the rent budget then it will print a message with the 
 overspending amount.  
 
-Todo:
+Future Ideas one might implement:
+
 1. Create a GUI
+2. Create data visualization
